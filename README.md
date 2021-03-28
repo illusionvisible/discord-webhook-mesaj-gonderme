@@ -2,4 +2,4 @@
 
 ## Kullanım
 
-İndirmeden kullanmak için [tıklayarak](https://xx) siteye gidebilirsin. 
+İndirmeden kullanmak için [tıklayarak](https://xxx) siteye gidebilirsin. 
